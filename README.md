@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
