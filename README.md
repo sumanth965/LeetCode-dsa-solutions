@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
+| [1550-three-consecutive-odds](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1550-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
