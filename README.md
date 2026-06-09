@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2652-sum-multiples) |
