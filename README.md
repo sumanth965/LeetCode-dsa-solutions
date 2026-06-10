@@ -58,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
