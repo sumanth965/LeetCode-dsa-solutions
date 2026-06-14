@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
