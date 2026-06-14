@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0896-monotonic-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1550-three-consecutive-odds) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 ## Queue
