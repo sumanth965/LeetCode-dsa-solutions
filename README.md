@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
