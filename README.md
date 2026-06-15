@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
