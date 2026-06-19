@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
+| [3033-modify-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3033-modify-the-matrix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -174,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
+| [3033-modify-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3033-modify-the-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
