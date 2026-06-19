@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0896-monotonic-array) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [3033-modify-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3033-modify-the-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
