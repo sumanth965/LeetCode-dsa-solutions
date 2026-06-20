@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3110-score-of-a-string) |
+| [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
