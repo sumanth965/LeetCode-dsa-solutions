@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
