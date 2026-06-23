@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
