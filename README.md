@@ -295,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
