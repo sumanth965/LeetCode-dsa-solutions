@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1550-three-consecutive-odds) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3033-modify-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3033-modify-the-matrix) |
