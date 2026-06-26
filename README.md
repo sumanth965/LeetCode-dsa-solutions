@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0541-reverse-string-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
