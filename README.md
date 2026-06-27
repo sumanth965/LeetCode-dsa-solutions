@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
@@ -312,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
