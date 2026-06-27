@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0178-rank-scores) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
