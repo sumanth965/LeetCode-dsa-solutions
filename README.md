@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0541-reverse-string-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
