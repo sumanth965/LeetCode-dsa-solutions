@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -273,10 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Quickselect
 |  |
