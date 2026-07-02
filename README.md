@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3110-score-of-a-string) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
