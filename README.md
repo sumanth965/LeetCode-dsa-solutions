@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
