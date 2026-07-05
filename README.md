@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0374-guess-number-higher-or-lower) |
