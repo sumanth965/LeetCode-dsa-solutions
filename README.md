@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
