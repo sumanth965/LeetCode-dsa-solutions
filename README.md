@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 ## Queue
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bucket Sort
 |  |
 | ------- |
