@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
