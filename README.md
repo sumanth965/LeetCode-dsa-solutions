@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0929-unique-email-addresses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0929-unique-email-addresses) |
 | [1528-shuffle-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
