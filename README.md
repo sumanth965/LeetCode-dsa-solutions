@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
