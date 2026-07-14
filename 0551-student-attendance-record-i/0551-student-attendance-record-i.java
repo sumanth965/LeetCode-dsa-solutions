@@ -14,10 +14,10 @@ class Solution {
                 Count_L=0;
             }
             if(Count_A>=2){
-            return false;
-        }else if(Count_L>=3){
-            return false;
-        }
+                return false;
+            }else if(Count_L>=3){
+                 return false;
+            }
         }return true;
         
     }
