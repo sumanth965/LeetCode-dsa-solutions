@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0896-monotonic-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0804-unique-morse-code-words](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0929-unique-email-addresses) |
 | [1528-shuffle-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1528-shuffle-string) |
