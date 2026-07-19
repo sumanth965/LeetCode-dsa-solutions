@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2239-find-closest-number-to-zero](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2460-apply-operations-to-an-array) |
