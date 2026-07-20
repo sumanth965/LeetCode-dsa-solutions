@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
@@ -436,5 +437,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
