@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
