@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0231-power-of-two) |
