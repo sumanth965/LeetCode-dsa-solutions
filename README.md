@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0819-most-common-word) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0541-reverse-string-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
