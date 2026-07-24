@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0495-teemo-attacking](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0832-flipping-an-image) |
