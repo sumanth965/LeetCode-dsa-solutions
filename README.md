@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0598-range-addition-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
