@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1929-concatenation-of-array) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
