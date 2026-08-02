@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0202-happy-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0058-length-of-last-word) |
