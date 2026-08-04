@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3248-snake-in-matrix) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/3467-transform-array-by-parity) |
 ## Queue
 |  |
