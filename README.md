@@ -476,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
