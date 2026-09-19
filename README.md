@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0078-subsets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0912-sort-an-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sumanth965/LeetCode-dsa-solutions/tree/master/0198-house-robber) |
