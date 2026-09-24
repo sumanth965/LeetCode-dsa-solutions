@@ -1,17 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int i;
-        int[] count=new int[26];
-        for( i=0;i<s.length();i++){
-            count[s.charAt(i) - 'a']++;
-           
-        } 
-        for(i=0;i<s.length();i++){
-            if(count[s.charAt(i)-'a']==1)
-            {
+        int cnt[]=new int[26];
+        for(int i=0;i<s.length();i++){
+            cnt[s.charAt(i)-'a']++;
+        }
+        for(int i=0;i<s.length();i++){
+            if(cnt[s.charAt(i)-'a']==1){
                 return i;
             }
-        }
-        return -1;
+        }return -1;
     }
 }
